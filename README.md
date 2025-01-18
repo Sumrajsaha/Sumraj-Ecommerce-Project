@@ -4,7 +4,7 @@
 [LinkdIn Follow](www.linkedin.com/in/sumraj-saha-1604742a8)
 
 
-Sumraj is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
+SUM's SHOP is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
 
 ## Demo
 
