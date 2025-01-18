@@ -4,7 +4,7 @@
 [LinkdIn Follow](www.linkedin.com/in/sumraj-saha-1604742a8)
 
 
-Anon is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
+Sumraj is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
 
 ## Demo
 
