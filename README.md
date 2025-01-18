@@ -8,8 +8,8 @@ SUM's SHOP is a fully responsive ecommerce website, maximum compatiblities in al
 
 ## Demo
 
-![Sumraj Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![Sumraj Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+![Sumraj Desktop Demo](.![Screenshot (2)](https://github.com/user-attachments/assets/67890425-a46d-482c-9b02-13433868720b)
+")
 
 ## Prerequisites
 
