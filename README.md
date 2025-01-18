@@ -33,7 +33,7 @@ git clone https://github.com/Sumrajsaha
 
 ## Contact
 
-If you want to contact me you can reach me at [LinkedIn](www.linkedin.com/in/sumraj-saha-1604742a8).
+If you want to contact me you can reach me at [LinkedIn](https://www.linkedin.com/in/sumraj-saha-1604742a8/).
 
 ## License
 
